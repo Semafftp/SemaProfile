@@ -35,3 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
 
   ![](https://komarev.com/ghpvc/?username=Semafftp&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=Semafftp&color=blueviolet)
