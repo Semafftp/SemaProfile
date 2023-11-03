@@ -34,5 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
 Пример https://docs.google.com/spreadsheets/d/1-7fP050gVr6bkWgw9plkjpawDHUttkVngNBndprkO70/edit?usp=sharing
+  
   ![](https://komarev.com/ghpvc/?username=Semafftp&color=blueviolet)
 
