@@ -1,10 +1,7 @@
 ### 👨‍💻 Обо мне:
 
 Тестировщик-автоматизатор с опытом год+. 
-<details>
-<summary>Спойлер</summary>
-<p>Why did I waste my time on this?.</p>
-</details>
+
 
 активно ищу работу 
 
@@ -39,3 +36,7 @@
   
   ![](https://komarev.com/ghpvc/?username=Semafftp&color=blueviolet)
 
+<details>
+<summary>Спойлер</summary>
+<p>Why did I waste my time on this?.</p>
+</details>
